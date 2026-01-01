@@ -12,7 +12,7 @@ My school homework from **#DescomplicaDigital** on Business Intelligence and Big
 8. Descriptive & Exploratory Data Analysis
 9. Analytical CRM
 10. Analytical SCM
-11. Business Intelligence (BI)
+11. Business Intelligence
 12. Data Visualization with Looker
 13. Introduction to Big Data
 14. Distributed Search & Databases in Big Data with Elasticsearch
