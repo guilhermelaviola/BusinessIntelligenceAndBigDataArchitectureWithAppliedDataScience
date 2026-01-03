@@ -16,5 +16,5 @@ My school homework from **#DescomplicaDigital** on Business Intelligence and Big
 12. Data Visualization with Looker
 13. Introduction to Big Data
 14. Distributed Search & Databases in Big Data with Elasticsearch
-15. Governance, Privacy, Security and Solutions
-16. Data Science and Decision Making
+15. Governance, Privacy, Security & Solutions
+16. Data Science & Decision Making
